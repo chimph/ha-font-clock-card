@@ -124,6 +124,9 @@ class FontClockCard extends LitElement {
           display: flex;
           justify-content: ${this._align === 'left' ? 'flex-start' : this._align === 'right' ? 'flex-end' : 'center'};
         }
+        mwc-menu {
+          overflow: visible !important;
+        }
       </style>
       <div class="clock-container">
         <div class="clock">${this._time}</div>
@@ -256,6 +259,9 @@ class FontClockCardEditor extends LitElement {
           .configValue=${'format'}
           @selected=${this._valueChanged}
           @closed=${(ev) => ev.stopPropagation()}
+          fixedMenuPosition
+          naturalMenuWidth
+          style="overflow: visible !important"
         >
           <mwc-list-item value="HH:mm:ss">24h with seconds (00:00:00)</mwc-list-item>
           <mwc-list-item value="HH:mm">24h no seconds (00:00)</mwc-list-item>
@@ -279,6 +285,9 @@ class FontClockCardEditor extends LitElement {
           .configValue=${'align'}
           @selected=${this._valueChanged}
           @closed=${(ev) => ev.stopPropagation()}
+          fixedMenuPosition
+          naturalMenuWidth
+          style="overflow: visible !important"
         >
           <mwc-list-item value="left">Left</mwc-list-item>
           <mwc-list-item value="center">Center</mwc-list-item>
@@ -295,10 +304,12 @@ class FontClockCardEditor extends LitElement {
         display: flex;
         flex-direction: column;
         gap: 16px;
+        overflow: visible;
       }
       ha-textfield, ha-select {
         display: block;
         width: 100%;
+        overflow: visible;
       }
       .switch-option {
         display: flex;
