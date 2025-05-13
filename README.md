@@ -2,7 +2,7 @@
 
 A Home Assistant Lovelace card that displays a clock using any [Google Font](https://fonts.google.com/). Fully customizable with font name, size, weight, color, and 12h/24h formats.
 
-![Font Clock Card](https://github.com/user-attachments/assets/d7d83776-c678-4ad7-866c-a466ccce5751)
+![Font Clock Card(1)](https://github.com/user-attachments/assets/474569cb-722d-4445-8c93-5cc5da439911)
 
 
 ## Features
