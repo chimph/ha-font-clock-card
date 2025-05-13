@@ -23,7 +23,7 @@ HACS install coming soon
 3. Go to Configuration → Dashboards → Three Dot Menu - Resources → Add Resource → Set Url as /local/community/font-clock-card/font-clock-card.js → Set Resource type as JavaScript Module → Create
 
 ### Usage
-Add to Dashboard with the VIsual Editor or with YAML. Browse Google Fonts for something that suits your dashboard vision. Be creative!
+Add to Dashboard via the Visual Editor (search Font Clock Card) or with YAML. Browse Google Fonts for something that suits your dashboard vision. Be creative!
 
 ![Screenshot 2025-05-13 132826](https://github.com/user-attachments/assets/4ebfbf96-7944-4fcb-aaa7-0c0d5292f605)
 
