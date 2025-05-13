@@ -10,6 +10,7 @@ A Home Assistant Lovelace card that displays a clock using any [Google Font](htt
 - Display current time in 12h or 24h format
 - Choose any Google Font and font weight
 - Customize size and colour
+- Position Left, Centre or Right
 - Visual editor for Lovelace
 - Optional: remove space before AM/PM
 
