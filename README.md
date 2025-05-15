@@ -1,9 +1,7 @@
 # Font Clock Card
 ![Version](https://img.shields.io/github/v/release/chimph/ha-font-clock-card?style=for-the-badge&logo=star&logoColor=white&label=Version&labelColor=0a0a0a&color=ff1493)
 
-
-
-A Home Assistant Lovelace card that displays a clock using any [Google Font](https://fonts.google.com/). Fully customizable with font name, size, weight, colour, and 12h/24h formats.
+A Home Assistant Dashboard card that displays a clock using any [Google Font](https://fonts.google.com/). Fully customisable with font name, size, weight, colour, and 12h/24h formats.
 
 ![Font Clock Card(1)](https://github.com/user-attachments/assets/474569cb-722d-4445-8c93-5cc5da439911)
 
@@ -12,9 +10,9 @@ A Home Assistant Lovelace card that displays a clock using any [Google Font](htt
 
 - Display current time in 12h or 24h format
 - Choose any Google Font and font weight
-- Customize size and colour
+- Customise size and colour
 - Position Left, Centre or Right
-- Visual editor for Lovelace
+- Visual editor
 - Optional: remove space before AM/PM
 
 ## Installation
@@ -44,7 +42,6 @@ type: custom:font-clock-card
 font_name: Orbitron
 font_weight: "700"
 font_size: 150px
-format: HH:mm
 color: cyan
 ```
 
@@ -52,4 +49,6 @@ The card will render the default clock when just using:
 ```yaml
 type: custom:font-clock-card
 ```
+
+Enjoy!
 
