@@ -17,14 +17,8 @@ A Home Assistant Lovelace card that displays a clock using any [Google Font](htt
 
 ## Installation
 
-### HACS (Recommended)
-1. Open HACS
-2. Go to "Frontend" section
-3. Click on the three dots in the top right corner
-4. Select "Custom repositories"
-5. Add this repository URL (https://github.com/chimph/ha-font-clock-card)
-6. Click "Add"
-7. Search for "Font Clock Card" and install it
+### HACS (Coming soon)
+
 
 ### Manual
 
