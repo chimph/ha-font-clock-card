@@ -1,6 +1,6 @@
 {
   "name": "Font Clock Card",
   "content_in_root": true,
-  "filename": "font-clock-card.js",
+  "filename": "ha-font-clock-card.js",
   "render_readme": true
 }
