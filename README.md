@@ -1,5 +1,7 @@
 # Font Clock Card
-![Version](https://img.shields.io/badge/Version-v1.0.0-ff1493?style=for-the-badge&logo=star&logoColor=white&labelColor=0a0a0a)
+![Version](https://img.shields.io/github/v/release/chimph/ha-font-clock-card?style=for-the-badge&logo=star&logoColor=white&label=Version&labelColor=0a0a0a&color=ff1493)
+
+
 
 A Home Assistant Lovelace card that displays a clock using any [Google Font](https://fonts.google.com/). Fully customizable with font name, size, weight, colour, and 12h/24h formats.
 
@@ -17,7 +19,12 @@ A Home Assistant Lovelace card that displays a clock using any [Google Font](htt
 
 ## Installation
 
-### HACS (Coming soon)
+### HACS
+
+1. Open HACS
+2. Three dot menu top right → "Custom Repositories"
+3. Paste in https://github.com/chimph/ha-font-clock-card and select type dashboard
+4. Search for 'Font Clock Card' and install
 
 
 ### Manual
