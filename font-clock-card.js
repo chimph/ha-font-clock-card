@@ -119,6 +119,7 @@ class FontClockCard extends LitElement {
           line-height: 1;
           text-align: ${this._align};
           width: 100%;
+          padding: 2em;
         }
         .clock-container {
           display: flex;
