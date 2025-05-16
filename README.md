@@ -1,5 +1,6 @@
 # Font Clock Card
-![Version](https://img.shields.io/github/v/release/chimph/ha-font-clock-card?style=for-the-badge&logo=star&logoColor=white&label=Version&labelColor=0a0a0a&color=ff1493)
+![Version](https://img.shields.io/github/v/release/chimph/ha-font-clock-card?style=for-the-badge&logo=star&logoColor=white&label=Version&labelColor=0a0a0a&color=ff1493)[![Forum](https://img.shields.io/badge/Home%20Assistant-Forum-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white&labelColor=0a0a0a)](https://community.home-assistant.io/t/font-clock-card/889814)
+
 
 A Home Assistant Dashboard card that displays a clock using any [Google Font](https://fonts.google.com/). Fully customisable with font name, size, weight, colour, and 12h/24h formats.
 
